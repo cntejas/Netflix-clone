@@ -8,7 +8,8 @@ API used from [TMDB Movie Api](https://www.themoviedb.org/documentation/api)
 
 - **ES7** and **ES6** javascript syntax
 - Use of **React Hooks**
+- -Used **axios**
 - Youtube trailer used from **react-youtube** package
 - CSS designs to mimic the actual Netflix Website
 
-Output can be viewed [**here**](https://mohankumar27.github.io/Netflix-clone/)
+Output can be viewed [**here**](https://netflix-clone-app-d28c7.web.app)
